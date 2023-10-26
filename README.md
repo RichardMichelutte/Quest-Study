@@ -1,6 +1,6 @@
 # quest_study
 
-A new Flutter project.
+Aplicativo em Dart, utilizando-se do Framework Flutter para a disciplina de programação em dispositivos móveis
 
 Nomes:  Richard Wallacy Hollywood Michelutte Nepomuceno Ferreira
 RA:     2840482213033
